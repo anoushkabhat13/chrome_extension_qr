@@ -1,0 +1,14 @@
+{
+    "name": "QR code generator",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "qr_code.html",
+      "default_icon": "qr_code_logo.png"
+    },
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ]
+  }
